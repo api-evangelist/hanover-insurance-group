@@ -1,7 +1,9 @@
 ---
 title: Hanover Insurance Group Inc (THG) Q3 FY2025 earnings ...
 url: https://finance.yahoo.com/quote/THG/earnings/THG-Q3-2025-earnings_call-369257.html/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hanover Insurance Group" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Artificial intelligence for workplace risk assessments
 url: https://www.hanover.com/customer-support/our-business-customers/hanover-risk-solutions/artificial-intelligence-workplace
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hanover Insurance Group" press release artificial intelligence'
 position: 1
 source: serpapi-google

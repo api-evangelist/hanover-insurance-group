@@ -1,7 +1,9 @@
 ---
 title: Risk detection surveillance | The Hanover Insurance Group
 url: https://www.hanover.com/businesses/business-customer-resources/hanover-risk-solutions/risk-detection-surveillance
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hanover Insurance Group" press release artificial intelligence'
 position: 3
 source: serpapi-google
